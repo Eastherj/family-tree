@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@syncfusion/ej2-angular-base/styles/material.css",
               "src/styles.css"
             ],
             "scripts": []
